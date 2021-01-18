@@ -1,0 +1,17 @@
+{
+    "name": "thoma/storage",
+    "authors": [
+        {
+            "name": "Jules Thomas D.",
+            "email": "48414478+julowayne@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+          "App\\": "app/"
+        }
+      }
+}
